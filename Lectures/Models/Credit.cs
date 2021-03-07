@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lectures.Models
+{
+    public class Credit
+    {
+        public int Value { get; set; }
+        public string Text { get; set; }
+    }
+}

@@ -1,0 +1,3 @@
+1;Enerji;1;Enerji Teknolojileri;5
+2;Medeniyetler Tarihi;2;İlkçağ Medeniyetleri;3
+3;Felsefe;2;Helenistik Felsefe;2
